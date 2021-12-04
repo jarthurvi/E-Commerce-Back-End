@@ -21,6 +21,7 @@ E-Commerce Back End
 
 ## Title
 ORM Homework
+Link to Video With error in INsomnia https://www.youtube.com/watch?v=QCMFh0C-oI8
 
 ## Description
 Building Back- End for an e-commerce site
